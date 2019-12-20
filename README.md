@@ -6,11 +6,11 @@
 * 不相关的view隐藏
 * 再次点击还原
 
-[](https://user-gold-cdn.xitu.io/2019/12/20/16f213d5811e4da5?w=320&h=515&f=gif&s=1458791)
+![](https://user-gold-cdn.xitu.io/2019/12/20/16f213d5811e4da5?w=320&h=515&f=gif&s=1458791)
 ## 实现：
 
 
-[](https://user-gold-cdn.xitu.io/2019/12/20/16f214c242f377ab?w=320&h=515&f=gif&s=920243)
+![](https://user-gold-cdn.xitu.io/2019/12/20/16f214c242f377ab?w=320&h=515&f=gif&s=920243)
 ## 实现思路：
 ### 表面分析：
 * 卡片是个列表，可以整体滑动，要用RecyclerView
